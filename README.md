@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![image](https://github-readme-activity-graph.cyclic.app/graph?username=sagedemage)
-
+<!-- GitHub Stats-->
 ![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=tokyonight)
 
 
