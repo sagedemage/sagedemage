@@ -3,7 +3,8 @@
 <!-- GitHub Stats-->
 ![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=tokyonight)
 
-
+<!-- Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage)](https://github.com/sagedemage/github-readme-stats)
 
 <!--
 **sagedemage/sagedemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
