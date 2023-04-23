@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![image](https://github-readme-activity-graph.cyclic.app/graph?username={sagedemage})
-
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+![image](https://github-readme-activity-graph.cyclic.app/graph?username=sagedemage)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage)](https://github.com/anuraghazra/github-readme-stats)
 
