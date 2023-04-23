@@ -1,4 +1,4 @@
-### Hi, I'm Salmaan Saeed 👋
+# Salmaan Saeed
 
 <!-- GitHub Stats-->
 ![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=tokyonight)
