@@ -2,8 +2,6 @@
 
 ![image](https://github-readme-activity-graph.cyclic.app/graph?username=sagedemage)
 
-[![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=radical)
 
 
