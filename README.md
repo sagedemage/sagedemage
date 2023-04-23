@@ -2,7 +2,7 @@
 
 ![image](https://github-readme-activity-graph.cyclic.app/graph?username=sagedemage)
 
-![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=merko)
+![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=gruvbox)
 
 
 
