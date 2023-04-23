@@ -7,6 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage&langs_count=10)](https://github.com/sagedemage/github-readme-stats)
 
 <!-- Personal Website -->
+## Personal Website
 [Personal Website](https://salmaansaeed.netlify.app/)
 
 <!--
