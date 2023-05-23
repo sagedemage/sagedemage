@@ -10,8 +10,10 @@
 ## Personal Website
 [Personal Website](https://salmaansaeed.netlify.app/)
 
-## Languages
+## Libraries/Frameworks
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="80" height="80"/>
+
 
 <!--
 **sagedemage/sagedemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
