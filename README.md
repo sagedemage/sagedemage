@@ -4,7 +4,7 @@
 ![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage&layout=donut&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage&layout=donut&langs_count=7)
 
 <!-- Personal Website -->
 ## Personal Website
