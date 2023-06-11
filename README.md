@@ -6,7 +6,7 @@
 <!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage&layout=donut&langs_count=6)
 
-~[Used Languages](used_languages.md)
+[Used Languages](used_languages.md)
 
 <!-- Personal Website -->
 ## Personal Website
