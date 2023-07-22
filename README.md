@@ -10,7 +10,7 @@
 
 <!-- Personal Website -->
 ## Personal Website
-[Personal Website](https://salmaansaeed.netlify.app/)
+[Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
 ## Libraries/Frameworks
 <p align="left">
