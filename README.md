@@ -15,7 +15,7 @@
 ## Libraries/Frameworks
 <p>
   <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="50" height="100"/>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="100" height="100"/>
   <!-- React -->
