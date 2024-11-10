@@ -17,10 +17,10 @@
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
 </div>
-<p>
+<div>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="150" height="150"/>
-</p>
+</div>
 <p>
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
