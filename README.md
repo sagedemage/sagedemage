@@ -21,18 +21,18 @@
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="150" height="150"/>
 </div>
-<p>
+<div>
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-</p>
-<p>
+</div>
+<div>
   <!-- Django -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="100" height="100"/>
-</p>
-<p>
+</div>
+<div>
   <!-- Flask -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="100" height="100"/>
-</p>
+</div>
 <!--
 **sagedemage/sagedemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
