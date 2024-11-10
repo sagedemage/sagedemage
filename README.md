@@ -16,20 +16,12 @@
 <div>
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="125" height="125"/>
-</div>
-<div>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="125" height="125"/>
-</div>
-<div>
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
-</div>
-<div>
   <!-- Django -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="100" height="100"/>
-</div>
-<div>
   <!-- Flask -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="100" height="100"/>
 </div>
