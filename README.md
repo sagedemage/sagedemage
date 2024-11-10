@@ -13,6 +13,12 @@
 [Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
 ## Libraries/Frameworks
+<style>
+  ul {
+    list-style-type: none;
+    margin-left: 40px;
+  }
+</style>
 <ul style="list-style-type:none !important; padding: 0; margin: 0;">
   <li>
     <!-- PyTorch -->
