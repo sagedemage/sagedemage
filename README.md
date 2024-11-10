@@ -13,10 +13,10 @@
 [Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
 ## Libraries/Frameworks
-<p>
+<div>
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
-</p>
+</div>
 <p>
   <!-- TensorFlow -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="150" height="150"/>
