@@ -22,6 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="90" height="90"/>
   <!-- PyTorch -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="90" height="90"/>
+  <!-- TensorFlow -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="90" height="90"/>
 </p>
 
 <!--
