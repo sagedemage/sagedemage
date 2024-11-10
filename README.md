@@ -17,11 +17,11 @@
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>  
   <!-- Django -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="90" height="90"/>
   <!-- Flask -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="90" height="90"/>
   <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" alt="bootstrap" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="90" height="90"/>
 </p>
 
 <!--
