@@ -13,7 +13,7 @@
 [Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
 ## Libraries/Frameworks
-<ul style="list-style-type: none;">
+<ul style="list-style-type:none;">
   <li>
     <!-- PyTorch -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
