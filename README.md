@@ -13,7 +13,8 @@
 [Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
 ## Libraries/Frameworks
-<p align="left">
+<!--<p align="left">-->
+<p>
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>  
   <!-- Django -->
