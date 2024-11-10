@@ -15,10 +15,8 @@
 ## Libraries/Frameworks
 <ul style="list-style-type:none !important; padding: 0; margin: 0;">
   <li>
-    <div>
-      <!-- PyTorch -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
-    </div>
+    <!-- PyTorch -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
   </li>
   <li>
     <!-- TensorFlow -->
