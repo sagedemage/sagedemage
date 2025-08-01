@@ -12,18 +12,26 @@
 ## Personal Website
 [Personal Website](https://sagedemage.github.io/PersonalWebsite/)
 
-## Libraries/Frameworks
+## Technologies
 <div>
-  <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytorch/pytorch-original-wordmark.svg" width="150" height="150"/>
-  <!-- TensorFlow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tensorflow/tensorflow-original-wordmark.svg" width="150" height="150"/>
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="125" height="125"/>
-  <!-- Django -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="150" height="150"/>
-  <!-- Flask -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="150" height="150"/>
+  <!-- Kubernetes -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="150" height="150"/>
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="150" height="150"/>
+  <!-- Ansible -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="125" height="125"/>
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="150" height="150"/>
+  <!-- Azure -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="150" height="150"/>
+  <!-- MongoDB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="150" height="150"/>
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="150" height="150"/>
+  <!-- Prometheus -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="150" height="150"/>
+  <!-- Grafana -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="150" height="150"/>
 </div>
 <!--
 **sagedemage/sagedemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
