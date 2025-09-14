@@ -12,8 +12,6 @@ I am interested in computer networking because I find it fascinating how compute
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="125" height="125"/>
   <!-- AWS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="150" height="150"/>
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="150" height="150"/>
   <!-- SQL Server -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="150" height="150"/>
   <!-- DynamoDB -->
