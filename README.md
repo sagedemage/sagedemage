@@ -29,4 +29,6 @@ I am interested in computer networking because I find it fascinating how compute
   <!-- Miscellaneous -->
   <!-- Ansible -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width="125" height="125"/>
+  <!-- Wireshark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" alt="Ansible" width="125" height="125"/>
 </div>
