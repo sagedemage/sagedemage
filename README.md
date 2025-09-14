@@ -1,13 +1,5 @@
 # Salmaan Saeed
 
-<!-- GitHub Stats-->
-![Salmaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagedemage&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagedemage&layout=donut&langs_count=6)
-
-[Used Languages](used_languages.md)
-
 ## Technologies
 <div>
   <!-- Kubernetes -->
@@ -29,17 +21,3 @@
   <!-- Grafana -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="150" height="150"/>
 </div>
-<!--
-**sagedemage/sagedemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
