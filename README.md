@@ -14,8 +14,8 @@ I am interested in computer networking because I find it fascinating how compute
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="150" height="150"/>
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="150" height="150"/>
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="150" height="150"/>
+  <!-- SQL Server -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="150" height="150"/>
   <!-- DynamoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="150" height="150"/>
 </div>
