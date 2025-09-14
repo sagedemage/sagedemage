@@ -8,10 +8,6 @@
 
 [Used Languages](used_languages.md)
 
-<!-- Personal Website -->
-## Personal Website
-[Personal Website](https://sagedemage.github.io/PersonalWebsite/)
-
 ## Technologies
 <div>
   <!-- Kubernetes -->
