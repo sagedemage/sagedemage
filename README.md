@@ -1,4 +1,6 @@
 # Salmaan Saeed
+Hi, my name is Salmaan Saeed. I'm an alumni of New Jersey Institute of Technology. I have a Bachelor of Science in Information Technology. 
+I am interested in computer networking because I find it fascinating how computers and routers communicate with each other in a WAN.
 
 ## Technologies
 <div>
