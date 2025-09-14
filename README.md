@@ -15,8 +15,6 @@ I am interested in computer networking because I find it fascinating how compute
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original-wordmark.svg" alt="Python" width="150" height="150"/>
   <!-- PowerShell -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="150" height="150"/>
-  <!-- Bash -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="Bash" width="150" height="150"/>
 
   <!-- Databases -->
   <!-- SQL Server -->
