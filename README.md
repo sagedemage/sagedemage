@@ -9,8 +9,6 @@ I am interested in computer networking because I find it fascinating how compute
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="150" height="150"/>
   <!-- Kubernetes -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="Kubernetes" width="150" height="150"/>
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="150" height="150"/>
 
   <!-- Languages -->
   <!-- Python -->
