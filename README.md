@@ -18,8 +18,4 @@ I am interested in computer networking because I find it fascinating how compute
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="150" height="150"/>
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="150" height="150"/>
-  <!-- Prometheus -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="150" height="150"/>
-  <!-- Grafana -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="150" height="150"/>
 </div>
